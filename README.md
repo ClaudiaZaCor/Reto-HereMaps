@@ -5,7 +5,9 @@ Es una compañía que desarrolla el servicio de mapas y navegación del mismo no
 Here Maps con su actualización mayor a la versión 2.0 se presenta como una renovación total, estrenando nuevo nombre, nueva interfaz y nuevas formas para desplazarse. Ahora Here Maps se llama Here WeGo.
 Here WeGo hace que encontrar rutas y compararlas sea mucho más rápido, al igual que cambiar el tipo de transporte para el desplazamiento. También hace que descubrir lugares cercanos y puntos de interés será más fácil.
 
-![Here Maps]()
+![Flujo](assets/images/heremaps.png)
+
+![Here Maps](https://wego.here.com)
 
 ##  Equipo de trabajo:
 
@@ -103,12 +105,12 @@ Proporcionar una plataforma que brinde a los usuarios amantes de diversas activi
 
 **4.- Definición del user persona**
 
-Se difinició un user persona principal.
+Se elaboró un user persona principal.
 
 ![User persona 1](assets/images/user1.PNG)
 
 
-Se difinició un user persona secundario.
+Se elaboró un user persona secundario.
 
 ![User persona 2](assets/images/user2.PNG)
 
@@ -121,28 +123,26 @@ Se difinició un user persona secundario.
 
 - Realización del content prototype del flujo del MVP. Se intentó replicar la interacción del usuario con la plataforma de registro de proyectos y como se daría el seguimiento.
 
-[Content Prototyping]()
-
-**Testing con el cliente**
- -
-
+![Content Prototyping](assets/images/content-prototype.jpg)
 
  **2.- Paper Prototype**
 
  Luego del testeo del content prototype, realizó el prototipo del producto en papel definir mejor el flujo y el número de vistas.
 
-**Inicio de sesión**
+ ![Paper Prototyping](assets/images/paper-prototype.jpg)
 
-![Inicio de sesión]()
-.
-.
-.
 
 ### D. Iteración y Síntesis:
 
-
+Despues de probar el prototipo se manejo el empleo de un lenguaje más coloquial para definir algunos flujos.
 
 ### F. Flujo de la aplicación.
+
+![Flujo](assets/images/heremaps.png)
+
+  Flujo del Producto:
+
+   https://marvelapp.com/505e267/screen/40545205
 
 
 ### E. Herramientas utilizadas:
